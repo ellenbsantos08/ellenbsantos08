@@ -1,14 +1,17 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=ff69b4&width=600&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Ellen+Bastos;Eu+sou+Programadora+Full-Stack!;" alt="Typing SVG"/>
+</a>
+
+- 👋 Hi, I’m Ellen Bastos
+- 📚 tecnico em DESENVOLVIMENTO DE SISTEMAS
+- 😄Pronomes: He/Him 🏳️‍🌈.
+- ⚡ Curiosidade: Meu jogo favorito é Genshin Impact e nao vivo sem fone de ouvido.
+###
 
 ###
 
-<h2 align="center">Hi 👋! My name is Ellen Bastos<br>I am programmer Full-Stacks</h2>
-
-###
-
-<h3 align="center">Sobre Mim</h3>
+<h2 align="center">Sobre Mim</h2>
 
 ###
 
