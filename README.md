@@ -4,9 +4,9 @@
 </a>
 
 - 👋 Hi, I’m Ellen Bastos
-- 📚 tecnico em DESENVOLVIMENTO DE SISTEMAS
-- 😄Pronomes: He/Him 🏳️‍🌈.
-- ⚡ Curiosidade: Meu jogo favorito é Genshin Impact e nao vivo sem fone de ouvido.
+- 📚 tecnica em DESENVOLVIMENTO DE SISTEMAS
+- 😄Pronomes: her/She 🏳️‍🌈.
+- ⚡Curiosidade: Viciada em BL.
 ###
 
 ###
